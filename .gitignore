@@ -1,0 +1,3 @@
+# Ignore Python virtual environment
+/yolov8env/
+/val/

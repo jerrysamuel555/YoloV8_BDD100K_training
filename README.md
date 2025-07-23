@@ -74,7 +74,7 @@ Trains YOLOv8 using Ultralytics. Key steps:
 
 ## Notes on YAML Configuration
 
-- The `yolov8n_scratch.yaml` file has been modified for experimentation. You may see changes in the model architecture, class definitions, or other parameters. Feel free to further adjust this file to test different model settings or training strategies.
+- The `yolov8n_scratch.yaml` file has been modified for experimentation. Just modified the number of filters and replaced one C2f layer with Conv.
 
 ## Example: Training Process Screenshot
 
